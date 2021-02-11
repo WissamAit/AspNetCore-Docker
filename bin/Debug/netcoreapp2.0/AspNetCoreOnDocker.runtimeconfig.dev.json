@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/wissace/.dotnet/store/|arch|/|tfm|",
+      "/home/wissace/.nuget/packages"
+    ]
+  }
+}
