@@ -1,8 +1,6 @@
 # ASP.NET Core
 - task: Docker@2
   inputs:
-- task: Docker@2
-  inputs:
     command: 'buildAndPush'
     Dockerfile: '**/Dockerfile'
     tags: 'wissamait/$(Build.BuildId)'
