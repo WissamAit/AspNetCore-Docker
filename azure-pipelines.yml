@@ -1,4 +1,4 @@
-# ASP.NET Core
+
 - task: Docker@2
   inputs:
     command: 'buildAndPush'
